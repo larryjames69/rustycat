@@ -1,2 +1,2 @@
 # rustycat
-cat-command clone written in Rust.
+Unix `cat` command clone written in Rust.
